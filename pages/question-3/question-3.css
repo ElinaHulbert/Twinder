@@ -10,6 +10,7 @@ body {
   padding: 0;
   margin: 0;
   background-image: linear-gradient(to right, #e0f540, #eda87f);
+  height: 150vh;
 }
 
 header {

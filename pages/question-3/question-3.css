@@ -27,6 +27,7 @@ h2 {
 
 h3 {
   font-family: "Lato", sans-serif;
+  margin-bottom: 15px;
 }
 
 * {
@@ -42,7 +43,7 @@ h3 {
   justify-content: center;
   align-items: center;
   pointer-events: none;
-  flex-direction: auto;
+  flex-direction: row;
   user-select: none;
   flex-wrap: wrap;
 }
@@ -50,7 +51,7 @@ h3 {
   width: 20vw;
   background: #fff;
   height: 400px;
-  margin: 0 20px;
+  margin: 50px 20px;
   cursor: pointer;
   pointer-events: all;
   box-shadow: 5px 5px 0px 0 #fca19e;

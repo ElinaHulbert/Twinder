@@ -15,6 +15,7 @@ Since we haven't been presented the single-page apps by that time yet, we create
 ##### :flashlight: How to use the project?
 
 Unfortunately, the results of the project won't be compared so you will be matched with our Program Manager by default by now. My database is already expired, so I believe that the Authentication will not work probably too. 
+<br>
 https://elinahulbert.github.io/Twinder/
 
 ##### :copyright: Credits
